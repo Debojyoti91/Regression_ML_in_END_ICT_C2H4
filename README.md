@@ -12,3 +12,4 @@ ii) Models: All the regression models are written in seperate python files as fu
 iii) Plots: All the Plots rerported are kept here, can also be re-generated very easily.
 Final results: results.py
 This python script can generate all the results reported for this study. one should import the particular model is being used, and the dataset. This script has to kept in the same folders with all the models python scrips. 
+krr_results.ipynb : this notebook is to show how to obtain the results for KRR model, as an example. 
