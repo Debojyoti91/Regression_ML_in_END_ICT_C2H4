@@ -17,5 +17,6 @@ iv) Plots: All the Plots rerported are kept here, can also be re-generated very 
 
 v) Final results: results.py
 
-This python script can generate all the results reported for this study. one should import the particular model is being used, and the dataset. This script has to kept in the same folders with all the models python scrips. 
-krr_results.ipynb : this notebook is to show how to obtain the results for KRR model, as an example. 
+This python script can generate all the results reported for this study. one should import the particular model is being used, and the dataset. This script has to be kept in the same folders with all the models python scrips. 
+
+vi) krr_results.ipynb : this notebook is to show how to obtain the results for KRR model, as an example. 
